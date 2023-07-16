@@ -1,0 +1,658 @@
+{
+    "PT": [
+      {
+        "name": "Airton Luiz Faleiro",
+        "instagram": "https://www.instagram.com/airtonfaleiro",
+        "twitter": "https://twitter.com/FaleiroAirton"
+      },
+      {
+        "name": "Alencar Santana Braga",
+        "instagram": "https://www.instagram.com/alencarbraga13",
+        "twitter": "https://www.twitter.com/AlencarBraga13"
+      },
+      {
+        "name": "Alexandre Lindenmeyer",
+        "instagram": "https://www.instagram.com/alexandre.lindenmeyer",
+        "twitter": "https://www.twitter.com/alxlindenmeyer"
+      },
+      {
+        "name": "Alfredo Alves Cavalcante",
+        "instagram": "https://www.instagram.com/alfredinho.pt",
+        "twitter": "https://www.twitter.com/alfredinhopt"
+      },
+      {
+        "name": "Ana Paula Lima",
+        "instagram": "https://www.instagram.com/anapaulalimapt",
+        "twitter": "https://www.twitter.com/anapaulalimapt"
+      },
+      {
+        "name": "Ana Cristina Pimentel",
+        "instagram": "https://www.instagram.com/anapimentelmg",
+        "twitter": "https://www.twitter.com/anapimentel_jf"
+      },
+      {
+        "name": "Arlindo Chinaglia",
+        "instagram": "https://www.instagram.com/depchinaglia",
+        "twitter": "https://twitter.com/achinaglia"
+      },
+      {
+        "name": "Benedita da Silva",
+        "instagram": "https://www.instagram.com/instadabene",
+        "twitter": "https://twitter.com/dasilvabenedita"
+      },
+      {
+        "name": "Elvino Bohn Gass",
+        "instagram": "https://www.instagram.com/bohn_gass",
+        "twitter": "https://www.twitter.com/BohnGass"
+      },
+      {
+        "name": "Camila Jara",
+        "instagram": "https://www.instagram.com/camilajarams",
+        "twitter": "https://www.twitter.com/camilajarams"
+      },
+      {
+        "name": "Carlos Veras",
+        "instagram": "https://www.instagram.com/carlosverass",
+        "twitter": "https://twitter.com/carlosveraspt"
+      },
+      {
+        "name": "Carlos Zarattini",
+        "instagram": "https://www.instagram.com/depzarattini",
+        "twitter": "https://twitter.com/CarlosZarattini"
+      },
+      {
+        "name": "Carol Dartora",
+        "instagram": "https://www.instagram.com/caroldartora13",
+        "twitter": "https://www.twitter.com/caroldartora13"
+      },
+      {
+        "name": "Dandara Tonantzin",
+        "instagram": "https://www.instagram.com/todandara",
+        "twitter": "https://www.twitter.com/todandara"
+      },
+      {
+        "name": "Adriana Accorsi",
+        "instagram": "https://www.instagram.com/adriana_accorsi",
+        "twitter": "https://www.twitter.com/adriana_accorsi"
+      },
+      {
+        "name": "Denise da Silva Pessôa",
+        "instagram": "https://www.instagram.com/denise_pessoa",
+        "twitter": "https://twitter.com/denisespessoa"
+      },
+      {
+        "name": "Dilvanda Faro",
+        "instagram": "https://www.instagram.com/deputadadilvandafaro",
+        "twitter": "https://www.twitter.com/dilvandafaropt"
+      },
+      {
+        "name": "Dimas Gadelha",
+        "instagram": "https://www.instagram.com/dimasgadelha13",
+        "twitter": "https://twitter.com/dimasgadelha13"
+      },
+      {
+        "name": "Francisco Costa",
+        "instagram": "https://www.instagram.com/franciscocostapi",
+        "twitter": "https://twitter.com/drfranciscopi"
+      },
+      {
+        "name": "Enio Verri",
+        "instagram": "https://www.instagram.com/enioverri",
+        "twitter": "https://twitter.com/enioverri"
+      },
+      {
+        "name": "Erika Kokay",
+        "instagram": "https://www.instagram.com/erikakokay",
+        "twitter": "https://twitter.com/erikakokay"
+      },
+      {
+        "name": "Fernando Mineiro",
+        "instagram": "https://www.instagram.com/mineiroptrn",
+        "twitter": "https://twitter.com/mineiropt"
+      },
+      {
+        "name": "Flávio Rodrigues Nogueira",
+        "instagram": "https://www.instagram.com/flavionogueirapi",
+        "twitter": "https://twitter.com/flavionpi"
+      },
+      {
+        "name": "Florentino Neto",
+        "instagram": "https://www.instagram.com/florentinoverasneto",
+        "twitter": "https://twitter.com/florentinovneto"
+      },
+      {
+        "name": "Gleisi Hoffmann",
+        "instagram": "https://www.instagram.com/gleisihoffmann",
+        "twitter": "https://www.twitter.com/gleisi"
+      },
+      {
+        "name": "Helder Salomão",
+        "instagram": "https://www.instagram.com/heldersalomao",
+        "twitter": "https://www.twitter.com/heldersalomao"
+      },
+      {
+        "name": "Ivoneide Caetano",
+        "instagram": "https://www.instagram.com/ivoneidecaetanooficial",
+        "twitter": "https://twitter.com/ivoneidecaetano"
+      },
+      {
+        "name": "Jack Rocha",
+        "instagram": "https://www.instagram.com/jackelinerocha.13",
+        "twitter": "https://www.twitter.com/jackrochaes"
+      },
+      {
+        "name": "Jilmar Tatto",
+        "instagram": "https://www.instagram.com/jilmartatto",
+        "twitter": "https://twitter.com/jilmartatto"
+      },
+      {
+        "name": "Joao Daniel",
+        "instagram": "https://www.instagram.com/deputadojoaodaniel",
+        "twitter": "https://twitter.com/joaodanielPT"
+      },
+      {
+        "name": "Jorge Solla",
+        "instagram": "https://www.instagram.com/depjorgesolla",
+        "twitter": "https://twitter.com/depjorgesolla"
+      },
+      {
+        "name": "José Airton Cirilo",
+        "instagram": "https://www.instagram.com/joseairtoncirilo",
+        "twitter": "https://twitter.com/JoseAirtonPT"
+      },
+      {
+        "name": "José Guimarães",
+        "instagram": "https://www.instagram.com/dep_guimaraes",
+        "twitter": "https://www.twitter.com/guimaraes13PT"
+      },
+      {
+        "name": "Joseildo Ramos",
+        "instagram": "https://www.instagram.com/joseildoramos",
+        "twitter": "https://www.twitter.com/joseildoramos"
+      },
+      {
+        "name": "Josias Gomes",
+        "instagram": "https://www.instagram.com/josiasgomes1312",
+        "twitter": "https://twitter.com/josiasgomesba"
+      },
+      {
+        "name": "Juliana Cardoso",
+        "instagram": "https://www.instagram.com/julianacardoso_pt",
+        "twitter": "https://twitter.com/julianapt"
+      },
+      {
+        "name": "Kiko Celeguim",
+        "instagram": "https://www.instagram.com/kiko.celeguim",
+        "twitter": "https://www.twitter.com/kikoceleguim"
+      },
+      {
+        "name": "Leonardo Monteiro",
+        "instagram": "https://www.instagram.com/depleomonteiro",
+        "twitter": "https://twitter.com/depleomonteiro"
+      },
+      {
+        "name": "Lindbergh Farias",
+        "instagram": "https://www.instagram.com/lindberghfarias",
+        "twitter": "https://www.twitter.com/lindberghfarias"
+      },
+      {
+        "name": "Luiz Couto",
+        "instagram": "https://www.instagram.com/luizcoutopt",
+        "twitter": "https://www.twitter.com/luizcoutopt"
+      },
+      {
+        "name": "Luizianne Lins",
+        "instagram": "https://www.instagram.com/luiziannelinspt",
+        "twitter": "https://twitter.com/LuizianneLinsPT"
+      },
+      {
+        "name": "Dionilso Marcon",
+        "instagram": "https://www.instagram.com/deputadomarcon",
+        "twitter": "https://twitter.com/deputadomarcon"
+      },
+      {
+        "name": "Maria do Rosário",
+        "instagram": "https://www.instagram.com/_mariadorosario",
+        "twitter": "https://twitter.com/mariadorosario"
+      },
+      {
+        "name": "Merlong Solano",
+        "instagram": "https://www.instagram.com/merlongsolano",
+        "twitter": "https://www.twitter.com/MerlongSolano"
+      },
+      {
+        "name": "Miguel Ângelo",
+        "instagram": "https://www.instagram.com/miguelangelomg1",
+        "twitter": "https://twitter.com/MiguelAngelo_"
+      },
+      {
+        "name": "Natália Bonavides",
+        "instagram": "https://www.instagram.com/nataliabonavides",
+        "twitter": "https://twitter.com/natbonavides"
+      },
+      {
+        "name": "Nilto Tatto",
+        "instagram": "https://www.instagram.com/niltotatto",
+        "twitter": "https://www.twitter.com/NiltoTatto"
+      },
+      {
+        "name": "Odair Cunha",
+        "instagram": "https://www.instagram.com/odaircunhamg",
+        "twitter": "https://twitter.com/odaircunhamg"
+      },
+      {
+        "name": "Padre João",
+        "instagram": "https://www.instagram.com/dep_padrejoao",
+        "twitter": "https://twitter.com/dep_padrejoao"
+      },
+      {
+        "name": "Patrus Ananias",
+        "instagram": "https://www.instagram.com/patrus_ananias",
+        "twitter": "https://www.twitter.com/Patrus_Ananias"
+      },
+      {
+        "name": "Paulão",
+        "instagram": "https://www.instagram.com/paulaodopt",
+        "twitter": "https://twitter.com/paulaodopt"
+      },
+      {
+        "name": "Paulo Guedes",
+        "instagram": "https://www.instagram.com/deputadopauloguedes",
+        "twitter": "https://twitter.com/deppauloguedes"
+      },
+      {
+        "name": "Pedro Uczai",
+        "instagram": "https://www.instagram.com/pedro.uczai",
+        "twitter": "https://twitter.com/uczai"
+      },
+      {
+        "name": "Reginaldo Lopes",
+        "instagram": "https://www.instagram.com/reginaldolopesmg",
+        "twitter": "https://www.twitter.com/ReginaldoLopes"
+      },
+      {
+        "name": "Reginete Bispo",
+        "instagram": "https://www.instagram.com/reginetebispo",
+        "twitter": "https://twitter.com/reginetebispo"
+      },
+      {
+        "name": "Reimont Otoni",
+        "instagram": "https://www.instagram.com/reimont",
+        "twitter": "https://www.twitter.com/Reimont"
+      },
+      {
+        "name": "Rogerio Correia",
+        "instagram": "https://www.instagram.com/rogeriocorreia_",
+        "twitter": "https://twitter.com/RogerioCorreia_"
+      },
+      {
+        "name": "Rubens Otoni",
+        "instagram": "https://www.instagram.com/rubensotoni",
+        "twitter": "https://twitter.com/RubensOtoni"
+      },
+      {
+        "name": "Rubens Pereira Junior",
+        "instagram": "https://www.instagram.com/rubenspereirajr",
+        "twitter": "https://twitter.com/rubenspereirajr"
+      },
+      {
+        "name": "Rui Falcão",
+        "instagram": "https://www.instagram.com/ruifalcao13",
+        "twitter": "https://www.twitter.com/rfalcao13"
+      },
+      {
+        "name": "Tadeu Veneri",
+        "instagram": "https://www.instagram.com/tadeuveneri",
+        "twitter": "https://www.twitter.com/tadeuveneri"
+      },
+      {
+        "name": "Valmir Assunção",
+        "instagram": "https://www.instagram.com/depvalmir",
+        "twitter": "https://twitter.com/depvalmir"
+      },
+      {
+        "name": "Vander Loubet",
+        "instagram": "https://www.instagram.com/vanderloubet",
+        "twitter": "https://twitter.com/vanderloubet"
+      },
+      {
+        "name": "Vicentinho",
+        "instagram": "https://www.instagram.com/vicentinho_pt",
+        "twitter": "https://twitter.com/VICENTINHOPT"
+      },
+      {
+        "name": "Waldenor Pereira",
+        "instagram": "https://www.instagram.com/depwaldenor",
+        "twitter": "https://twitter.com/waldenorpereira"
+      },
+      {
+        "name": "Washington Quaquá",
+        "instagram": "https://www.instagram.com/washington.quaqua.5",
+        "twitter": "https://www.twitter.com/quaqua1313"
+      },
+      {
+        "name": "Elton Welter",
+        "instagram": "https://www.instagram.com/eltonwelter",
+        "twitter": "https://twitter.com/DeputadoWelter"
+      },
+      {
+        "name": "Zé Neto",
+        "instagram": "https://www.instagram.com/depzeneto",
+        "twitter": "https://www.twitter.com/depzeneto1323"
+      },
+      {
+        "name": "Zeca Dirceu",
+        "instagram": "https://www.instagram.com/zecadirceuoficial",
+        "twitter": "https://www.twitter.com/zeca_dirceu"
+      }
+    ],
+    "PSOLRede": [
+      {
+        "name": "Túlio Gadêlha",
+        "instagram": "https://www.instagram.com/tulio.gadelha",
+        "twitter": "https://www.twitter.com/tuliogadelha"
+      },
+      {
+        "name": "Célia Xakriabá",
+        "instagram": "https://www.instagram.com/celia.xakriaba",
+        "twitter": "https://twitter.com/celiaxakriaba"
+      },
+      {
+        "name": "Tarcísio Motta",
+        "instagram": "https://twitter.com/MottaTarcisio",
+        "twitter": "https://www.instagram.com/tarcisiomottapsol"
+      },
+      {
+        "name": "Talíria Petrone",
+        "instagram": "https://www.instagram.com/taliriapetrone",
+        "twitter": "https://www.twitter.com/taliriapetrone"
+      },
+      {
+        "name": "Sâmia Bomfim",
+        "instagram": "https://www.instagram.com/samiabomfim",
+        "twitter": "https://twitter.com/samiabomfim"
+      },
+      {
+        "name": "Luciene Cavalcante",
+        "instagram": "https://www.instagram.com/proflucienecavalcante",
+        "twitter": "https://www.twitter.com/_lucavalcante"
+      },
+      {
+        "name": "Henrique Vieira Lima",
+        "instagram": "https://www.instagram.com/pastorhenriquevieira",
+        "twitter": "https://twitter.com/pastorhenriquev"
+      },
+      {
+        "name": "Chico Alencar",
+        "instagram": "https://www.instagram.com/chico.alencar",
+        "twitter": "https://twitter.com/chico_psol"
+      },
+      {
+        "name": "Erika Hilton",
+        "instagram": "https://www.instagram.com/hilton_erika",
+        "twitter": "https://twitter.com/ErikakHilton"
+      },
+      {
+        "name": "Fernanda Melchionna",
+        "instagram": "https://www.instagram.com/fernandapsol",
+        "twitter": "https://twitter.com/fernandapsol"
+      },
+      {
+        "name": "Glauber Braga",
+        "instagram": "https://www.instagram.com/glauberbraga_oficial",
+        "twitter": "https://twitter.com/Glauber_Braga"
+      },
+      {
+        "name": "Guilherme Boulos",
+        "instagram": "https://www.instagram.com/guilhermeboulos.oficial",
+        "twitter": "https://twitter.com/GuilhermeBoulos"
+      },
+      {
+        "name": "Ivan Valente",
+        "instagram": "https://www.instagram.com/ivanvalentepsol",
+        "twitter": "https://twitter.com/IvanValente"
+      },
+      {
+        "name": "Luiza Erundina",
+        "instagram": "https://www.instagram.com/luizaerundina",
+        "twitter": "https://twitter.com/luizaerundina"
+      }
+    ],
+    "PDT": [
+      {
+        "name": "Afonso Motta",
+        "twitter": "https://twitter.com/afonso_motta",
+        "instagram": "https://www.instagram.com/afonsomottaoficial"
+      },
+      {
+        "name": "Ana Paula Brandão",
+        "twitter": "https://twitter.com/enfaanapaula",
+        "instagram": "https://www.secure.instagram.com/enfermeiraanapaula"
+      },
+      {
+        "name": "André Figueiredo",
+        "twitter": "https://twitter.com/andrepdt12",
+        "instagram": "https://www.instagram.com/depandrefigueiredo"
+      },
+      {
+        "name": "Dorinaldo Malafaia",
+        "twitter": "https://twitter.com/malafaia_d",
+        "instagram": "https://www.instagram.com/malafaiadorinaldo"
+      },
+      {
+        "name": "Duda Salabert",
+        "twitter": "https://twitter.com/DudaSalabert",
+        "instagram": "https://www.instagram.com/duda_salabert"
+      },
+      {
+        "name": "Felix Mendonça Júnior",
+        "twitter": "https://twitter.com/FelixMendoncaJr",
+        "instagram": "https://www.instagram.com/felixmendoncajr"
+      },
+      {
+        "name": "Flávia Carreiro Morais",
+        "twitter": "https://twitter.com/depflaviamorais",
+        "instagram": "https://www.instagram.com/flaviamorais1212"
+      },
+      {
+        "name": "Maria Goreth",
+        "twitter": "https://twitter.com/profgoreth",
+        "instagram": "https://www.instagram.com/professoragoreth"
+      },
+      {
+        "name": "Darci Pompeo de Mattos",
+        "twitter": "https://twitter.com/PompeodeMattos",
+        "instagram": "https://www.instagram.com/pompeodemattospdt"
+      },
+      {
+        "name": "Max Lemos",
+        "twitter": "https://twitter.com/maxlemosoficial",
+        "instagram": "https://www.instagram.com/maxlemosoficial"
+      },
+      {
+        "name": "Carlos Benevides Filho",
+        "twitter": "https://twitter.com/mauro_bfilho",
+        "instagram": "https://www.instagram.com/mauro_benevidesfilho"
+      },
+      {
+        "name": "Mário Lúcio Heringer",
+        "twitter": "https://twitter.com/mario_heringer",
+        "instagram": "https://www.instagram.com/deputadomarioheringer"
+      },
+      {
+        "name": "Marcos Barbosa Tavares",
+        "instagram": "https://www.instagram.com/oficialmarcostavares"
+      },
+      {
+        "name": "Márcio José Honaiser",
+        "twitter": "https://twitter.com/Marcio_Honaiser",
+        "instagram": "https://www.instagram.com/marciohonaiser"
+      },
+      {
+        "name": "Idilvan Alencar",
+        "twitter": "https://twitter.com/IdilvanAlencar",
+        "instagram": "https://www.instagram.com/idilvanalencar"
+      },
+      {
+        "name": "Josenildo Santos Abrantes",
+        "twitter": "https://twitter.com/DepJosenildo",
+        "instagram": "https://www.instagram.com/josenildoap_"
+      },
+      {
+        "name": "Leonardo Silva Prates",
+        "twitter": "https://twitter.com/leopratesba",
+        "instagram": "https://www.instagram.com/leoprates"
+      },
+      {
+        "name": "José Leônidas Cristino",
+        "twitter": "https://twitter.com/joseleonidas",
+        "instagram": "https://www.instagram.com/leonidas.cristino"
+      }
+    ],
+    "PCdoB": [
+      {
+        "name": "Renildo",
+        "twitter": "https://twitter.com/renildo",
+        "instagram": "https://www.instagram.com/renildocalheiross"
+      },
+      {
+        "name": "Orlando Silva",
+        "twitter": "https://twitter.com/orlandosilva",
+        "instagram": "https://www.instagram.com/orlandosilvasp"
+      },
+      {
+        "name": "Márcio Jerry",
+        "twitter": "https://twitter.com/marciojerry",
+        "instagram": "https://www.instagram.com/marciojerry"
+      },
+      {
+        "name": "Jandira Feghali",
+        "twitter": "https://twitter.com/jandira_feghali",
+        "instagram": "https://www.instagram.com/jandira_feghali"
+      },
+      {
+        "name": "Daniel Almeida",
+        "twitter": "https://twitter.com/Daniel_PCdoB",
+        "instagram": "https://www.instagram.com/daniel_pcdob"
+      },
+      {
+        "name": "Daiana Santos",
+        "twitter": "https://www.twitter.com/daianasantospoa",
+        "instagram": "https://www.instagram.com/daianasantospoa"
+      },
+      {
+        "name": "Alice Portugal",
+        "twitter": "https://twitter.com/Alice_Portugal",
+        "instagram": "https://www.instagram.com/aliceportugal"
+      }
+    ],
+    "PV": [
+      {
+        "name": "Aliel Machado",
+        "twitter": "https://twitter.com/alielmachado",
+        "instagram": "https://www.instagram.com/alielmachado"
+      },
+      {
+        "name": "Bacelar",
+        "twitter": "https://twitter.com/DeputadoBacelar",
+        "instagram": "https://www.instagram.com/deputadobacelar"
+      },
+      {
+        "name": "Clodoaldo Magalhães",
+        "twitter": "https://www.twitter.com/depclodoaldom",
+        "instagram": "https://www.instagram.com/deputadoclodoaldomagalhaes"
+      },
+      {
+        "name": "Jadyel Alencar",
+        "twitter": "https://www.twitter.com/jadyeldajupi",
+        "instagram": "https://www.instagram.com/jadyeldajupi"
+      },
+      {
+        "name": "Luciano Amaral",
+        "twitter": "https://twitter.com/Lucianosamaral",
+        "instagram": "https://www.instagram.com/lucianoamaralfilho"
+      },
+      {
+        "name": "Reginaldo Veras",
+        "twitter": "https://www.instagram.com/reginaldo.veras",
+        "instagram": "https://twitter.com/ReginaldoVeras"
+      }
+    ],
+    "PSB": [
+      {
+        "name": "Bandeira de Mello",
+        "twitter": "https://twitter.com/mello_bandeira",
+        "instagram": "https://www.instagram.com/eduardobandeirademello"
+      },
+      {
+        "name": "Hildelis Duarte Júnior",
+        "twitter": "https://www.twitter.com/DuarteJr_",
+        "instagram": "https://www.instagram.com/duartejr_"
+      },
+      {
+        "name": "Eriberto Medeiros",
+        "twitter": "https://twitter.com/DepEriberto",
+        "instagram": "https://www.instagram.com/eriberto.medeiros"
+      },
+      {
+        "name": "Felipe Carreras",
+        "twitter": "https://twitter.com/felipecarreras",
+        "instagram": "https://www.instagram.com/felipecarreras"
+      },
+      {
+        "name": "Gervásio Maia",
+        "twitter": "https://twitter.com/gervasiomaia",
+        "instagram": "https://www.instagram.com/gervasiomaia"
+      },
+      {
+        "name": "Guilherme Uchôa Cavalcanti",
+        "twitter": "https://www.twitter.com/GuiUchoaJr",
+        "instagram": "https://www.instagram.com/GUILHERMEUCHOAJR"
+      },
+      {
+        "name": "Heitor Schuch",
+        "twitter": "https://twitter.com/HeitorSchuch",
+        "instagram": "https://www.instagram.com/heitorschuch"
+      },
+      {
+        "name": "Jonas Donizete",
+        "twitter": "https://twitter.com/jonasdonizette_",
+        "instagram": "https://www.instagram.com/jonasdonizette"
+      },
+      {
+        "name": "Lídice da Mata",
+        "twitter": "https://twitter.com/lidicedamata",
+        "instagram": "https://www.instagram.com/lidicedamata"
+      },
+      {
+        "name": "Lucas Ramos",
+        "twitter": "https://twitter.com/LucasRamosPE",
+        "instagram": "https://www.instagram.com/lucasramospe"
+      },
+      {
+        "name": "Luciano Ducci",
+        "twitter": "https://twitter.com/LucianoDucci",
+        "instagram": "https://www.instagram.com/lucianoducci/?hl=em"
+      },
+      {
+        "name": "Marcelo Lima",
+        "twitter": "https://twitter.com/marcelolimasbc",
+        "instagram": "https://www.instagram.com/marcelolimasbc"
+      },
+      {
+        "name": "Paulo Foletto",
+        "twitter": "https://twitter.com/DeputadoFoletto",
+        "instagram": "https://www.instagram.com/paulo.foletto"
+      },
+      {
+        "name": "Pedro Campos",
+        "twitter": "https://twitter.com/pedrocampospe",
+        "instagram": "https://www.instagram.com/pedrocampospe"
+      },
+      {
+        "name": "Tabata Amaral",
+        "twitter": "https://twitter.com/tabataamaralsp",
+        "instagram": "https://www.instagram.com/tabataamaralsp"
+      }
+    ]
+  }
